@@ -2,7 +2,7 @@
 
 Whit this Python OpenCV application you can bring any object into existence using the webcam of your laptop.
 <p align="center">
-  <img src="imgs/project_diagram.png">
+  <img src="imgs/result.png">
 </p>
 
 ## Requirements
@@ -21,7 +21,7 @@ python run.py
 Press key 'c' to capture a frame...
 ```
 <p align="center">
-  <img src="imgs/project_diagram.png">
+  <img src="imgs/calibration.png">
 </p>
 
 3. Finally, type **the name of the image** you want to project onto the board.
