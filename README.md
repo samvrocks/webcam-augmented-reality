@@ -15,6 +15,7 @@ Whit this Python OpenCV application you can bring any object into existence usin
 ```bash
 python run.py
 ```
+
 2. Calibrate your webcam to **[remove distortion](http://docs.opencv.org/3.1.0/dc/dbb/tutorial_py_calibration.html)**, taking pictures (10 at least) of **[this calibration pattern board](imgs/cpattern.png)** with different angles:
 ```python
 Press key 'c' to capture a frame...
