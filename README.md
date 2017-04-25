@@ -1,6 +1,6 @@
 # Webcam 2D Augmented Reality
 
-Whit this Python OpenCV application you can bring **any object** into existence using the **webcam** of your laptop.
+Webcam 2D AR is a **Python OpenCV** application to bring **any object** into existence using the **webcam** of your laptop.
 <p align="center">
   <img src="imgs/result.png">
 </p>
