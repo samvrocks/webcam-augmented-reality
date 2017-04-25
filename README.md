@@ -22,6 +22,7 @@ Press key 'c' to capture a frame...
 <p align="center">
   <img src="imgs/project_diagram.png">
 </p>
+
 3. Finally, type the name of the image you want to project onto the board.
 ```python
 Introduce the name of the image: test.png
