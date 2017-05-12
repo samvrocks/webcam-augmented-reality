@@ -7,8 +7,8 @@ Webcam 2D AR is a **Python OpenCV** application to bring **any object** into exi
 
 ## Requirements
 * Python 2.7
-* NumPy library.
-* OpenCV library.
+* NumPy library
+* OpenCV library
 
 ## Instruction Manual
 1. Download **[Webcam 2D AR](python)** and run it typing **run.py**
